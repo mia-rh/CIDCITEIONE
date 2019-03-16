@@ -1,0 +1,2 @@
+# CIDCITEIONE
+Quiero desarrollar una versión de software destinado a la minería de criptomonedas que incluya principalmente la nuestra.  Que ofrezca a los usuarios la posibilidad de minar bien sea con tarjetas gráficas (GPU), procesadores (CPU), o con ambas simultáneamente. y adicionar un elemento que marcara la diferencia entre otros software.    ¿Puedes hacer eso para nosotros?  En cuanto a sistemas operativos: Windows, MacOS y Linux. 
